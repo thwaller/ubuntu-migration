@@ -1,7 +1,7 @@
 # ubuntu-migration
 Tools for migrating to the next Ubuntu release vs upgrading. This is a WIP created as a result of Aptik being removed as an open source software to paid and proprietary. I have opted to not pay and discontinue use of the software as I feel that as a user of FOSS software, the code I write in turn should belong to the community. If I write code and expect others to pay for it, then I should be paying everyone who wrote the code in the software I am using. Since I am not a full developer and cannot contribute full pieces of software, I do share the scripts, settings, configurations and procedures that I use to make my life easier.
 
-My intent is to address the issues of migration, all that Aptik addresses plus some of my own additions, and provide instruction and some bash script to allow users to perform successful migrations without relying on paid software. The needed functionality should be fairly easily accomplished with true open source software and/or some custom scripts.
+My intent is to address the issues of migration, all that Aptik addresses plus some of my own additions, and provide instruction and some bash script to allow users to perform successful migrations without relying on paid software. The needed functionality should be fairly easily accomplished with true open source software and/or some custom scripts. I have completely dropped Aptik and believe it is not needed.
 
 ## Areas to be addressed
 1. Respositories and associated priority assignment
